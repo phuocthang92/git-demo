@@ -3,7 +3,7 @@ import './Cart.scss'
 
 const Cart = () => {
     return (
-        <div>Cart</div>
+        <div>Trang giỏ hàng</div>
     )
 }
 
